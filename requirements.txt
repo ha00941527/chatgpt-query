@@ -1,0 +1,7 @@
+openai
+pyhdb
+pyodbc
+hana_ml
+python-dotenv
+pymssql
+sqlalchemy-hana
